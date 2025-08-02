@@ -1,6 +1,6 @@
 # Backend
-Python version: 3.13.5  
-Poetry version: 2.1.3  
+Python version: 3.9 - 3.13.5  
+Poetry version: 2.0.0 - 2.1.3  
 
 ### Create a virtual environment
 `python3 -m venv path/to/venv`\
