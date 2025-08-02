@@ -18,3 +18,5 @@ If the above command gives error the try the below command.\
 
 ### Poetry Installation
 `poetry install`
+
+> ___Continue with the README under app folder___
