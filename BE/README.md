@@ -8,7 +8,9 @@ Poetry version: 2.1.3
 
 ### Install libraries
 `cd BE`\
-`pip install -r requirements.txt`
+`pip install -r requirements.txt`\
+If the above command gives error the try the below command.\
+`pip install -U poetry`
 
 ### Version check
 `python --version`\
