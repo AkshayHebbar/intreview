@@ -6,8 +6,10 @@ authors = [
     {name = "akshay.hebbar8@gmail.com",email = "akshay.hebbar8@gmail.com"}
 ]
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.9,<=3.14"
 dependencies = [
+    "fastapi (>=0.116.1,<0.117.0)",
+    "uvicorn (>=0.35.0,<0.36.0)"
 ]
 
 [tool.poetry]
