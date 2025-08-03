@@ -4,7 +4,7 @@ aiosignal==1.3.2
 altair==5.5.0
 annotated-types==0.7.0
 anyio==4.9.0
--e git+https://github.com/AkshayHebbar/intreview.git@42454f5d7660e89b915ce55cbcd3f4e8d559cb96#egg=app&subdirectory=BE/app
+-e git+https://github.com/AkshayHebbar/intreview.git@484dfe3a9cb6e9712b4ec7dabdf7cab291167bba#egg=app&subdirectory=BE/app
 appnope==0.1.4
 argon2-cffi==23.1.0
 argon2-cffi-bindings==21.2.0

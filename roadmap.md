@@ -19,7 +19,10 @@ I am trying to build an application that records a video from a meeting (like te
 - API to convert audio-video conversation to text
 - API to upload recorded video to object storage
 - API to upload video transcripts to object storage
+- API for compressing video
 - 
 
+#### Database
+- Create an in-memory Database to store data. **[assigned to @NavyaHebbar]**
 
 ### FE Tasks
