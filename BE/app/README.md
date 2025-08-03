@@ -1,7 +1,7 @@
 # APPLICATION
 
 ## Running FastAPI
-change directory to BE/app: `cd app`\
+change directory to _BE/app_: `cd app`\
 `poetry run uvicorn app.main:app --reload`
 
 ## App Verification
